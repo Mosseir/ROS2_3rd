@@ -1,0 +1,17 @@
+[0.859s] Invoking command in '/home/ubuntu/turtlebot3_ws/build/bug2_navigation': PYTHONPATH=/home/ubuntu/turtlebot3_ws/build/bug2_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/turtlebot3_ws/build/bug2_navigation/build --no-deps symlink_data
+[1.032s] running develop
+[1.127s] running egg_info
+[1.127s] writing bug2_navigation.egg-info/PKG-INFO
+[1.127s] writing dependency_links to bug2_navigation.egg-info/dependency_links.txt
+[1.127s] writing entry points to bug2_navigation.egg-info/entry_points.txt
+[1.127s] writing requirements to bug2_navigation.egg-info/requires.txt
+[1.128s] writing top-level names to bug2_navigation.egg-info/top_level.txt
+[1.129s] reading manifest file 'bug2_navigation.egg-info/SOURCES.txt'
+[1.129s] writing manifest file 'bug2_navigation.egg-info/SOURCES.txt'
+[1.130s] running build_ext
+[1.130s] Creating /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2-navigation.egg-link (link to .)
+[1.131s] Installing bug2_controller script to /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/bug2_navigation
+[1.131s] 
+[1.131s] Installed /home/ubuntu/turtlebot3_ws/build/bug2_navigation
+[1.131s] running symlink_data
+[1.152s] Invoked command in '/home/ubuntu/turtlebot3_ws/build/bug2_navigation' returned '0': PYTHONPATH=/home/ubuntu/turtlebot3_ws/build/bug2_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/turtlebot3_ws/build/bug2_navigation/build --no-deps symlink_data

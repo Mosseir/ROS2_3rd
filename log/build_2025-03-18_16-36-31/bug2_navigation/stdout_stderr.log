@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing bug2_navigation.egg-info/PKG-INFO
+writing dependency_links to bug2_navigation.egg-info/dependency_links.txt
+writing entry points to bug2_navigation.egg-info/entry_points.txt
+writing requirements to bug2_navigation.egg-info/requires.txt
+writing top-level names to bug2_navigation.egg-info/top_level.txt
+reading manifest file 'bug2_navigation.egg-info/SOURCES.txt'
+writing manifest file 'bug2_navigation.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2-navigation.egg-link (link to .)
+Installing bug2_controller script to /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/bug2_navigation
+
+Installed /home/ubuntu/turtlebot3_ws/build/bug2_navigation
+running symlink_data

@@ -1,0 +1,35 @@
+[0.720s] Invoking command in '/home/ubuntu/turtlebot3_ws/build/bug2_navigation': PYTHONPATH=/home/ubuntu/turtlebot3_ws/build/bug2_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/ubuntu/turtlebot3_ws/build/bug2_navigation/build
+[0.881s] running develop
+[0.976s] Removing /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2-navigation.egg-link (link to .)
+[0.996s] Invoked command in '/home/ubuntu/turtlebot3_ws/build/bug2_navigation' returned '0': PYTHONPATH=/home/ubuntu/turtlebot3_ws/build/bug2_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/ubuntu/turtlebot3_ws/build/bug2_navigation/build
+[0.998s] Invoking command in '/home/ubuntu/turtlebot3_ws/src/bug2_navigation': PYTHONPATH=/home/ubuntu/turtlebot3_ws/build/bug2_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bug2_navigation build --build-base /home/ubuntu/turtlebot3_ws/build/bug2_navigation/build install --record /home/ubuntu/turtlebot3_ws/build/bug2_navigation/install.log --single-version-externally-managed install_data --force
+[1.235s] running egg_info
+[1.236s] writing ../../build/bug2_navigation/bug2_navigation.egg-info/PKG-INFO
+[1.237s] writing dependency_links to ../../build/bug2_navigation/bug2_navigation.egg-info/dependency_links.txt
+[1.237s] writing entry points to ../../build/bug2_navigation/bug2_navigation.egg-info/entry_points.txt
+[1.237s] writing requirements to ../../build/bug2_navigation/bug2_navigation.egg-info/requires.txt
+[1.237s] writing top-level names to ../../build/bug2_navigation/bug2_navigation.egg-info/top_level.txt
+[1.240s] reading manifest file '../../build/bug2_navigation/bug2_navigation.egg-info/SOURCES.txt'
+[1.241s] writing manifest file '../../build/bug2_navigation/bug2_navigation.egg-info/SOURCES.txt'
+[1.241s] running build
+[1.241s] running build_py
+[1.242s] copying bug2_navigation/bug2_controller copy.py -> /home/ubuntu/turtlebot3_ws/build/bug2_navigation/build/lib/bug2_navigation
+[1.242s] copying bug2_navigation/bug2_controller.py -> /home/ubuntu/turtlebot3_ws/build/bug2_navigation/build/lib/bug2_navigation
+[1.242s] running install
+[1.243s] running install_lib
+[1.243s] creating /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2_navigation
+[1.244s] copying /home/ubuntu/turtlebot3_ws/build/bug2_navigation/build/lib/bug2_navigation/__init__.py -> /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2_navigation
+[1.244s] copying /home/ubuntu/turtlebot3_ws/build/bug2_navigation/build/lib/bug2_navigation/bug2_controller copy.py -> /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2_navigation
+[1.244s] copying /home/ubuntu/turtlebot3_ws/build/bug2_navigation/build/lib/bug2_navigation/bug2_controller.py -> /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2_navigation
+[1.245s] byte-compiling /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2_navigation/__init__.py to __init__.cpython-310.pyc
+[1.245s] byte-compiling /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2_navigation/bug2_controller copy.py to bug2_controller copy.cpython-310.pyc
+[1.247s] byte-compiling /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2_navigation/bug2_controller.py to bug2_controller.cpython-310.pyc
+[1.248s] running install_data
+[1.248s] copying resource/bug2_navigation -> /home/ubuntu/turtlebot3_ws/install/bug2_navigation/share/ament_index/resource_index/packages
+[1.248s] copying package.xml -> /home/ubuntu/turtlebot3_ws/install/bug2_navigation/share/bug2_navigation
+[1.248s] running install_egg_info
+[1.251s] Copying ../../build/bug2_navigation/bug2_navigation.egg-info to /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2_navigation-0.0.0-py3.10.egg-info
+[1.252s] running install_scripts
+[1.279s] Installing bug2_controller script to /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/bug2_navigation
+[1.280s] writing list of installed files to '/home/ubuntu/turtlebot3_ws/build/bug2_navigation/install.log'
+[1.319s] Invoked command in '/home/ubuntu/turtlebot3_ws/src/bug2_navigation' returned '0': PYTHONPATH=/home/ubuntu/turtlebot3_ws/build/bug2_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bug2_navigation build --build-base /home/ubuntu/turtlebot3_ws/build/bug2_navigation/build install --record /home/ubuntu/turtlebot3_ws/build/bug2_navigation/install.log --single-version-externally-managed install_data --force
