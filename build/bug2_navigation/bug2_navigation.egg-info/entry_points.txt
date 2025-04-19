@@ -1,0 +1,3 @@
+[console_scripts]
+bug2_controller = bug2_navigation.bug2_controller:main
+

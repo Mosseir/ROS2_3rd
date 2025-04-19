@@ -1,0 +1,31 @@
+running develop
+Removing /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2-navigation.egg-link (link to .)
+running egg_info
+writing ../../build/bug2_navigation/bug2_navigation.egg-info/PKG-INFO
+writing dependency_links to ../../build/bug2_navigation/bug2_navigation.egg-info/dependency_links.txt
+writing entry points to ../../build/bug2_navigation/bug2_navigation.egg-info/entry_points.txt
+writing requirements to ../../build/bug2_navigation/bug2_navigation.egg-info/requires.txt
+writing top-level names to ../../build/bug2_navigation/bug2_navigation.egg-info/top_level.txt
+reading manifest file '../../build/bug2_navigation/bug2_navigation.egg-info/SOURCES.txt'
+writing manifest file '../../build/bug2_navigation/bug2_navigation.egg-info/SOURCES.txt'
+running build
+running build_py
+copying bug2_navigation/bug2_controller copy.py -> /home/ubuntu/turtlebot3_ws/build/bug2_navigation/build/lib/bug2_navigation
+copying bug2_navigation/bug2_controller.py -> /home/ubuntu/turtlebot3_ws/build/bug2_navigation/build/lib/bug2_navigation
+running install
+running install_lib
+creating /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2_navigation
+copying /home/ubuntu/turtlebot3_ws/build/bug2_navigation/build/lib/bug2_navigation/__init__.py -> /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2_navigation
+copying /home/ubuntu/turtlebot3_ws/build/bug2_navigation/build/lib/bug2_navigation/bug2_controller copy.py -> /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2_navigation
+copying /home/ubuntu/turtlebot3_ws/build/bug2_navigation/build/lib/bug2_navigation/bug2_controller.py -> /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2_navigation
+byte-compiling /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2_navigation/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2_navigation/bug2_controller copy.py to bug2_controller copy.cpython-310.pyc
+byte-compiling /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2_navigation/bug2_controller.py to bug2_controller.cpython-310.pyc
+running install_data
+copying resource/bug2_navigation -> /home/ubuntu/turtlebot3_ws/install/bug2_navigation/share/ament_index/resource_index/packages
+copying package.xml -> /home/ubuntu/turtlebot3_ws/install/bug2_navigation/share/bug2_navigation
+running install_egg_info
+Copying ../../build/bug2_navigation/bug2_navigation.egg-info to /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/python3.10/site-packages/bug2_navigation-0.0.0-py3.10.egg-info
+running install_scripts
+Installing bug2_controller script to /home/ubuntu/turtlebot3_ws/install/bug2_navigation/lib/bug2_navigation
+writing list of installed files to '/home/ubuntu/turtlebot3_ws/build/bug2_navigation/install.log'
